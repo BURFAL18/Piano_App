@@ -1,9 +1,9 @@
 # Piano_App
 Basic Piano app
 tap on screen to play the music
-(it works in horizontal mode )
-#REQUIREMENTS
-1.any touch smartphone with 
+(It works in Landscape mode )
+## REQUIREMENTS
+1.Any touch smartphone with 
 android os 
 android v5+
 ******************************************************************
